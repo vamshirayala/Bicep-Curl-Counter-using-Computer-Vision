@@ -6,6 +6,8 @@
 The project, the "Bicep Curl Counter using Computer Vision," leverages computer vision and machine learning to track and quantify exercise repetitions accurately. This innovative system employs the Media Pipe library in conjunction with OpenCV to process video input, making it applicable for both real-time live capture and recorded video analysis. The code for the project is written in python. Here, the specific application of this project is counting the number of bi-cep curls done during an exercise and to demonstrate the various uses of the computer vision.
 
 
+Click <a herf="https://github.com/vamshirayala/Bicep-Curl-Counter-using-Computer-Vision/blob/main/curl_counter.py">here!</a> For the code.
+
 ## Working
 
 1. **Initialization**:
@@ -41,6 +43,8 @@ The project, the "Bicep Curl Counter using Computer Vision," leverages computer 
     - Release the video capture and close all OpenCV windows.
 The code leverages computer vision and pose detection techniques to track the position of key body parts and count the number of bicep curls performed in real-time. This system can be extended to other exercises and applications where tracking specific body movements is required.
 
+
+Note: Necessary modules like opencv-python and mediapipe should be installed before running the code.
  
 ## Output
 
